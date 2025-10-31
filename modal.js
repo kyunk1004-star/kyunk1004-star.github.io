@@ -1,8 +1,8 @@
 // 프로젝트 정보 데이터
 const projects = {
   project1: {
-    title: 'Edit Design Project 1',
-    image: 'img/portfolio/p1.jpg',
+    title: '리플렛',
+    image: 'img/portfolio/detail.jpg',
     description: '이 프로젝트는 브랜드 아이덴티티를 위한 패키지 디자인입니다. 심플하면서도 감각적인 디자인으로 제품의 가치를 극대화했습니다.'
   },
   project2: {
@@ -26,6 +26,16 @@ const projects = {
     description: '모던하고 세련된 로고 디자인으로 브랜드 가치를 높였습니다.'
   },
   project6: {
+    title: 'Edit Design Project 6',
+    image: 'img/portfolio/logo1.png',
+    description: '심볼과 로고타입을 결합한 통합 브랜딩 디자인입니다.'
+  },
+  project7: {
+    title: 'Edit Design Project 6',
+    image: 'img/portfolio/logo1.png',
+    description: '심볼과 로고타입을 결합한 통합 브랜딩 디자인입니다.'
+  },
+  project8: {
     title: 'Edit Design Project 6',
     image: 'img/portfolio/logo1.png',
     description: '심볼과 로고타입을 결합한 통합 브랜딩 디자인입니다.'
