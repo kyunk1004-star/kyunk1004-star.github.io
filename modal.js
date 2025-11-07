@@ -29,16 +29,6 @@ const projects = {
     title: 'Edit Design Project 6',
     image: 'img/portfolio/logo1.png',
     description: '심볼과 로고타입을 결합한 통합 브랜딩 디자인입니다.'
-  },
-  project7: {
-    title: 'Edit Design Project 6',
-    image: 'img/portfolio/logo1.png',
-    description: '심볼과 로고타입을 결합한 통합 브랜딩 디자인입니다.'
-  },
-  project8: {
-    title: 'Edit Design Project 6',
-    image: 'img/portfolio/logo1.png',
-    description: '심볼과 로고타입을 결합한 통합 브랜딩 디자인입니다.'
   }
 };
 
