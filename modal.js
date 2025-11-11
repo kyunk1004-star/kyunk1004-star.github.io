@@ -2,17 +2,17 @@
 const projects = {
   project1: {
     title: '리플렛',
-    image: 'img/portfolio/detail.jpg',
+    image: 'img/portfolio/detail1.jpg',
     description: '이 프로젝트는 브랜드 아이덴티티를 위한 패키지 디자인입니다. 심플하면서도 감각적인 디자인으로 제품의 가치를 극대화했습니다.'
   },
   project2: {
     title: 'Edit Design Project 2',
-    image: 'img/portfolio/let.jpg',
+    image: 'img/portfolio/detail2.jpg',
     description: '레터링 디자인 프로젝트로, 타이포그래피를 중심으로 한 비주얼 아이덴티티 작업입니다.'
   },
   project3: {
     title: 'Edit Design Project 3',
-    image: 'img/portfolio/name.png',
+    image: 'img/portfolio/detail3.jpg',
     description: '네이밍과 로고 디자인을 통합한 브랜딩 프로젝트입니다.'
   },
   project4: {
