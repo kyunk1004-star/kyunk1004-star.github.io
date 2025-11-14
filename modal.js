@@ -1,34 +1,34 @@
 // 프로젝트 정보 데이터
 const projects = {
   project1: {
-    title: 'Edit Design Project 1',
-    image: 'img/portfolio/p1.jpg',
-    description: '이 프로젝트는 브랜드 아이덴티티를 위한 패키지 디자인입니다. 심플하면서도 감각적인 디자인으로 제품의 가치를 극대화했습니다.'
+    title: '리플렛',
+    image: 'img/portfolio/detail1.jpg',
+    description: '이 프로젝트는 부산불꽃축제 홍보용 포스터 디자인입니다. 광안리해수욕장에서 펼쳐지는 화려한 불꽃축제를 생동감있게 표현하였습니다.'
   },
   project2: {
     title: 'Edit Design Project 2',
-    image: 'img/portfolio/let.jpg',
-    description: '레터링 디자인 프로젝트로, 타이포그래피를 중심으로 한 비주얼 아이덴티티 작업입니다.'
+    image: 'img/portfolio/detail2.jpg',
+    description: '리플렛 디자인 프로젝트로, ‘무영당’이라는 복합문화공간을 알리고자 리플렛을 제작하였습니다.'
   },
   project3: {
     title: 'Edit Design Project 3',
-    image: 'img/portfolio/name.png',
-    description: '네이밍과 로고 디자인을 통합한 브랜딩 프로젝트입니다.'
+    image: 'img/portfolio/detail3.jpg',
+    description: '패키지 디자인 프로젝트입니다. 기존에 있는 밸러니티 수면 영양제 패키지를 새롭게 디자인하였습니다.'
   },
   project4: {
     title: 'Edit Design Project 4',
-    image: 'img/portfolio/logo1.png',
-    description: '기업 로고 디자인 프로젝트로, 브랜드의 정체성을 명확히 표현했습니다.'
+    image: 'img/portfolio/detail4.jpg',
+    description: '가상의 치과 바른치과를 sns배너 제작하였습니다.'
   },
   project5: {
     title: 'Edit Design Project 5',
-    image: 'img/portfolio/logo1.png',
-    description: '모던하고 세련된 로고 디자인으로 브랜드 가치를 높였습니다.'
+    image: 'img/portfolio/detail5.jpg',
+    description: '달서구본리복지관의 사보를 팀원들과 함께 협력하여 제작하였습니다.'
   },
   project6: {
     title: 'Edit Design Project 6',
-    image: 'img/portfolio/logo1.png',
-    description: '심볼과 로고타입을 결합한 통합 브랜딩 디자인입니다.'
+    image: 'img/portfolio/detail6.jpg',
+    description: '채선당의 밀푀유나베 밀키트를 상세페이지 디자인하였습니다.'
   }
 };
 
